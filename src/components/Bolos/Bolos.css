@@ -1,0 +1,26 @@
+   .logo_img1 {
+        height: center;
+        width: center;
+        flex-wrap: wrap;
+        padding: 20px 25px 0px 25px;
+        
+
+        
+    }
+
+    .vaiprolado1{
+        flex-wrap:wrap;
+        display:inline-flex;
+        background-color: #cab817;
+        margin-left: center;
+        margin-right: center;
+        border-radius: 10px;
+    }
+    
+.tema1{
+    background-color: #cab817;
+    border-radius: 10px;
+}
+    
+
+

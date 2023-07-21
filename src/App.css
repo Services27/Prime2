@@ -1,0 +1,13 @@
+.fundo{
+  background-color: #f1e31a;
+  flex-wrap:wrap;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
